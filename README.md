@@ -1,27 +1,56 @@
-# ☁️ Weather App
+# 🌦 Weather App (MERN Stack)
 
-A simple and responsive weather application that allows users to check real-time weather information for any city.
-
-The app fetches weather data from a weather API and displays details like temperature, weather conditions, humidity, and wind speed.
+A full stack weather application that allows users to search for weather information of any city. The application fetches real-time weather data using an external API and displays temperature, weather conditions, humidity, and wind speed.
 
 ## 🚀 Features
 
-* Search weather by **city name**
-* Displays **current temperature**
-* Shows **weather condition and icon**
-* Displays **humidity and wind speed**
-* Error message for invalid city names
-* Clean and responsive user interface
+* Search weather by city name
+* Displays temperature
+* Shows weather conditions
+* Displays humidity and wind speed
+* Responsive user interface
 
-## 🛠️ Technologies Used
+## 🛠 Tech Stack
 
-* HTML
+Frontend:
+
+* React
+* Vite
 * CSS
-* JavaScript
-* Weather API 
 
-## 🔗 Live Demo
+Backend:
 
-[https://yourusername.github.io/weather-app/](https://vanshika-3010.github.io/Weather-App-Full-Stack-MERN-/)
+* Node.js
+* Express.js
 
+API:
 
+* Weather API
+
+## 📂 Project Structure
+
+Weather-App
+│
+├── client (React frontend)
+├── server (Node + Express backend)
+
+## ⚙️ Installation
+
+Clone the repository:
+
+git clone https://github.com/vanshika-3010/Weather-App-Full-Stack-MERN-.git
+
+Install dependencies:
+
+npm install
+
+Run the project:
+
+npm run dev
+
+## 👩‍💻 Author
+
+Vanshika Mudgal
+
+GitHub: https://github.com/vanshika-3010
+LinkedIn: https://www.linkedin.com/in/vanshikamudgal03
