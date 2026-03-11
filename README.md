@@ -34,6 +34,9 @@ Weather-App
 ├── client (React frontend)
 ├── server (Node + Express backend)
 
+## Live Preview 
+https://vanshika-3010.github.io/Weather-App-Full-Stack-MERN-/
+
 ## ⚙️ Installation
 
 Clone the repository:
